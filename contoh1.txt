@@ -13,3 +13,7 @@ ini adalah ketikan asal saja :
   - cabang keempat a
   - cabang keempat b
 - poin ketujuh 
+  - nmax
+  - fino
+  - jupiter mx
+  - jupiter z
