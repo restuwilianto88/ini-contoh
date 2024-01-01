@@ -1,9 +1,15 @@
 ini adalah ketikan asal saja :
 - poin pertama
+  - cabang pertama a
+  - cabang pertama b 
+  - cabanag pertama c
+  - cabang pertama d
 - poin kedua
   - cabang kedua a
   - cabang kedua b
   - cabang kedua c
 - poin ketiga
 - poin keempat
+  - cabang keempat a
+  - cabang keempat b
 - poin ketujuh 
