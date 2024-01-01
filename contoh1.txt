@@ -1,6 +1,9 @@
 ini adalah ketikan asal saja :
 - poin pertama
 - poin kedua
+  - cabang kedua a
+  - cabang kedua b
+  - cabang kedua c
 - poin ketiga
 - poin keempat
 - poin ketujuh 
