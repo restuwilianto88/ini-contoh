@@ -4,3 +4,5 @@ ini adalah ketikan asal saja :
 - poin ketiga
 - poin keempat
 - poin kelima
+- poin keenam
+- poin ketujuh 
