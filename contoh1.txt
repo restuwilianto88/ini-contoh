@@ -17,3 +17,6 @@ ini adalah ketikan asal saja :
   - fino
   - jupiter mx
   - jupiter z
+  - aerox
+  - mio z
+  - soul
